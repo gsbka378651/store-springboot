@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkstore"]=self["webpackChunkstore"]||[]).push([[735],{5735:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var r=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,t=n._self._c;return t("div",[t("main",[t("div",{staticClass:"container"},[t("p",[n._v("找不到頁面・・・")])])])])}],u={},c=u,i=e(1001),a=(0,i.Z)(c,r,s,!1,null,"064c8737",null),l=a.exports}}]);
+//# sourceMappingURL=735.0c7968b3.js.map
